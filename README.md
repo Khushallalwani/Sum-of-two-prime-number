@@ -1,1 +1,0 @@
-# Sum-of-two-prime-number
